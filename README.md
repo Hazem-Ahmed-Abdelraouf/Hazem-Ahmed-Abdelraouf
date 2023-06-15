@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning;Data%20Science&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Industrial Trainee at ViTrox Corporation Bhd.
+- 🏢 I'm an Industrial Trainee at ViTrox Technologies Sdn. Bhd.
 - 👨‍💻 As a CS student, I'm intrested in Machine Learning and Data Science.
 - 💬 I aspire to be a professional Data Scientist and always eager for new challenges and opportunities
 
